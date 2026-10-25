@@ -3516,6 +3516,21 @@
     }
   },
   {
+    "name": "crawlerpeek",
+    "url": "https://github.com/crawlerpeek/crawlerpeek",
+    "description": "Check whether AI crawlers such as GPTBot, ClaudeBot and PerplexityBot can access a URL: robots.txt rules per bot (RFC 9309) plus the live HTTP status fetched with each bot's user agent.",
+    "category": "browsers-search-and-web-automation",
+    "language": "TypeScript",
+    "provider": "Community",
+    "tags": [
+      "robots-txt",
+      "ai-crawlers",
+      "seo",
+      "web"
+    ],
+    "official": false
+  },
+  {
     "name": "Zaptu",
     "url": "https://github.com/TommyTap11/zaptu",
     "description": "Sends a person's consented US home-service contact request (service, ZIP, name, phone) to independent local providers; for plumbing it returns a number the person dials, and Zaptu does not perform the work.",

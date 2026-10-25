@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 423 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 424 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1077,6 +1077,17 @@ Scrape any page into clean markdown, screenshots, metadata and links, or map a s
 - Provider: crawlbrulee
 - Official: yes
 - Tags: scraping, markdown, screenshots, eu
+- Category: Browsers, Search, and Web Automation
+
+### crawlerpeek
+
+Check whether AI crawlers such as GPTBot, ClaudeBot and PerplexityBot can access a URL: robots.txt rules per bot (RFC 9309) plus the live HTTP status fetched with each bot's user agent.
+
+- URL: https://github.com/crawlerpeek/crawlerpeek
+- Language: TypeScript
+- Provider: Community
+- Official: no
+- Tags: robots-txt, ai-crawlers, seo, web
 - Category: Browsers, Search, and Web Automation
 
 ### CurlShot
